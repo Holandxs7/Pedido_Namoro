@@ -1,13 +1,13 @@
 let perguntas = [
 {
     titulo: 'Como meu irmão chama?',
-    alternativas: ['Thulio', 'Guilherme', 'Pedro', 'Lucas'],
-    correta: 1
+    alternativas: ['Thulio', 'Guilherme', 'Pedro', 'Arthur'],
+    correta: 3
 },
 
 {
     titulo: 'Qual o nome dos meus pais?',
-    alternativas: ['Silvana e Hector', 'Silvana e Heitor', 'Silvia e Edgar', 'Silvia e Hector'],
+    alternativas: ['Tatitana e Antonio', 'Silvana e Aurelio', 'Tatiana e Edgar', 'Silvia e Antonio'],
     correta: 0
 },
 
@@ -20,30 +20,30 @@ let perguntas = [
 {
     titulo: 'Quantos animais de estimação eu tenho?',
     alternativas: ['2', '4', '5', '6'],
-    correta: 2
+    correta: 0
 },
 
 {
-    titulo: 'Como é meu apelido no time de hand?',
-    alternativas: ['Pantera', 'Paredão', 'Lobo', 'Morsa'],
+    titulo: 'Como é meu apelido?',
+    alternativas: ['Holandinha', 'Gostosão', 'Lobo', 'Nakroth'],
     correta: 3
 },
 
 {
-    titulo: 'Na época do SISU eu estava com dúvida entre ECO qual dos cursos abaixo?',
-    alternativas: ['ELT', 'ECA', 'CCO', 'MED'],
+    titulo: 'Qual é meu time de coração?',
+    alternativas: ['Vasco', 'Botafogo', 'Flamengo', 'Olaria'],
     correta: 1
 },
 
 {
-    titulo: 'Quantos membros o BOLT tem?',
-    alternativas: ['4', '5', '6', '7'],
+    titulo: 'Qual jogo eu mais jogo?',
+    alternativas: ['Fortnite', 'Fifa', 'Lol', 'FF'],
     correta: 2
 },
 
 {
-    titulo: 'Qual meu time do coração?',
-    alternativas: ['Atlético MG', 'Corinthian', 'Palmeiras', 'Flamengo'],
+    titulo: 'Qual meu time eu já vi um jogo?',
+    alternativas: ['Atlético MG', 'Corinthian', 'Fluminense', 'Flamengo'],
     correta: 2
 },
 
